@@ -1,0 +1,83 @@
+Main Categories,Select characteristics,Total*,All plans to take classes this term have been canceled,Classes are in different formats this term,Fewer classes are being taken this term,More classes are being taken this term,Classes are being taken from a different institution,Classes are being taken for a different kind of certificate or degree,Did not report
+Total*,"6,426,008","1,403,326","973,650","3,359,334","1,287,192","211,357","321,306","177,169"
+Age,    18 - 24,"1,099,022","83,640","192,308","636,536","454,255","60,855","104,041","25,425"
+Age,    25 - 39,"1,829,230","465,112","283,617","989,789","351,723","112,251","78,331","23,838"
+Age,    40 - 54,"1,879,247","493,047","236,163","969,680","308,583","10,755","49,040","54,903"
+Age,    55 - 64,"1,123,573","230,567","178,709","545,084","86,233","23,755","88,474","59,391"
+Age,    65 and above,"494,936","130,961","82,853","218,246","86,398","3,742","1,420","13,611"
+Sex,    Male,"3,166,097","713,972","448,693","1,540,973","623,994","144,851","209,546","83,555"
+Sex,    Female,"3,259,911","689,355","524,957","1,818,361","663,198","66,506","111,760","93,614"
+Hispanic origin and Race ,    Hispanic or Latino (may be of any race),"2,566,783","494,630","374,836","1,421,287","507,873","118,633","190,094","53,538"
+Hispanic origin and Race ,"    White alone, not Hispanic","1,949,873","413,020","332,109","1,084,122","287,349","34,617","76,494","79,721"
+Hispanic origin and Race ,"    Black alone, not Hispanic","509,208","148,402","70,056","113,113","227,798","3,363","3,654","1,778"
+Hispanic origin and Race ,"    Asian alone, not Hispanic","989,791","244,149","140,862","539,414","140,042","13,793","33,396","38,532"
+Hispanic origin and Race ,"    Two or more races + Other races, not Hispanic","410,354","103,126","55,787","201,399","124,129","40,952","17,667","3,600"
+Education,    Less than high school,"752,212","146,200","38,485","376,282","133,745","43,273","61,003","34,234"
+Education,    High school or GED,"1,219,188","187,938","157,256","590,241","323,274",-,"80,565","29,211"
+Education,    Some college/associate’s degree,"2,430,423","538,065","536,777","1,200,490","611,183","82,470","144,529","70,651"
+Education,    Bachelor’s degree or higher,"2,024,184","531,122","241,132","1,192,322","218,989","85,614","35,209","43,073"
+Marital Status,    Married,"3,215,124","909,965","388,292","1,609,831","480,212","62,410","78,138","100,944"
+Marital Status,    Widowed,"193,213","33,743","11,635","78,766","15,268",-,"68,097","4,428"
+Marital Status,    Divorced/separated,"676,163","122,819","107,713","326,261","133,253","26,628","6,840","29,661"
+Marital Status,    Never married,"2,318,188","335,123","452,042","1,339,445","655,957","122,319","168,231","40,753"
+Marital Status,    Did not report,"23,319","1,677","13,968","5,031","2,502",-,-,"1,384"
+Household size ,    1 person in the household,"156,314","22,815","31,807","106,418","31,303","1,948","6,540","2,246"
+Household size ,    2 people in the household,"993,685","275,278","145,547","479,860","160,815","46,508","27,242","18,143"
+Household size ,    3 people in the household,"1,390,872","276,717","225,347","580,451","414,838","31,439","71,728","54,543"
+Household size ,    4 people in the household,"1,731,506","402,969","302,044","904,598","364,918","49,929","80,618","21,351"
+Household size ,    5 people in the household,"1,201,499","221,026","130,526","755,905","233,444","69,117","24,957","39,288"
+Household size ,    6 people in the household,"510,147","77,488","73,874","333,361","29,619",-,"81,194","12,938"
+Household size ,    7 or more people in the household,"441,984","127,033","64,506","198,741","52,254","12,416","29,026","28,660"
+Presence of children under 18 years old ,    Children in household,"2,542,926","712,768","344,773","1,286,674","462,727","16,688","92,064","73,989"
+Presence of children under 18 years old ,    No children,"3,883,082","690,559","628,877","2,072,661","824,465","194,669","229,242","103,180"
+Respondent or household member experienced loss of employment income ,    Yes,"1,665,886","365,321","325,502","800,690","358,644","37,410","53,623","60,704"
+Respondent or household member experienced loss of employment income ,    No,"4,748,895","1,031,792","648,148","2,558,644","928,548","173,947","267,683","116,465"
+Respondent or household member experienced loss of employment income ,    Did not report,"11,227","6,214",-,-,-,-,-,-
+Respondent currently employed ,    Yes,"3,804,009","983,501","564,815","2,093,304","692,770","74,766","148,667","95,609"
+Respondent currently employed ,    No,"2,608,807","414,416","408,835","1,266,030","594,422","136,591","172,638","78,790"
+Respondent currently employed ,    Did not report,"13,192","5,409",-,-,-,-,-,"2,769"
+Household income ,"    Less than $25,000","722,005","109,550","132,745","426,936","203,154","4,231","30,151","2,148"
+Household income ,"    $25,000 - $34,999","795,074","68,917","93,465","366,524","277,033","91,512","35,557","10,438"
+Household income ,"    $35,000 - $49,999","866,953","116,095","180,731","476,558","153,775","37,517","97,361","6,988"
+Household income ,"    $50,000 - $74,999","940,372","264,468","133,911","445,675","193,204","33,205","15,677","22,904"
+Household income ,"    $75,000 - $99,999","943,459","212,765","180,587","544,207","180,929","18,038","66,581","27,468"
+Household income ,"    $100,000 - $149,999","979,804","322,845","121,742","486,430","140,040","18,109","41,249","12,700"
+Household income ,"    $150,000 - $199,999","435,935","174,832","16,914","223,199","47,809","4,689","27,287","3,064"
+Household income ,"    $200,000 and above","532,783","90,977","89,996","313,401","86,900",954,"2,751","35,618"
+Household income ,    Did not report,"209,623","42,878","23,558","76,403","4,349","3,103","4,691","55,842"
+Used in the last 7 days to meet spending needs* ,    Regular income sources like those received before the pandemic,"4,198,517","961,280","732,984","2,249,850","725,015","174,043","200,443","121,299"
+Used in the last 7 days to meet spending needs* ,    Credit cards or loans,"2,313,631","367,343","332,149","1,477,904","595,740","94,627","136,138","31,199"
+Used in the last 7 days to meet spending needs* ,    Money from savings or selling assets or possessions,"1,612,337","309,008","251,099","908,127","393,391","101,114","137,956","24,057"
+Used in the last 7 days to meet spending needs* ,    Borrowing from friends or family,"844,749","96,822","168,179","501,669","188,839","43,309","122,001","28,626"
+Used in the last 7 days to meet spending needs* ,    Unemployment insurance (UI) benefit payments,"1,172,627","232,068","135,688","623,902","308,237","78,588","148,597","8,191"
+Used in the last 7 days to meet spending needs* ,    Stimulus (economic impact) payment,"2,442,099","369,471","333,145","1,415,519","761,363","131,455","159,200","30,267"
+Used in the last 7 days to meet spending needs* ,    Money saved from deferred or forgiven payments (to meet spending needs),"402,086","24,147","79,771","230,629","67,297","53,787","75,502","16,004"
+Used in the last 7 days to meet spending needs* ,    Supplemental Nutrition Assistance Program (SNAP),"374,011","79,577","125,966","182,138","148,278",-,"32,681",942
+Used in the last 7 days to meet spending needs* ,    Other,"114,608","27,173","39,739","24,780","1,637",-,"17,501","1,140"
+Used in the last 7 days to meet spending needs* ,    Did not report,"66,250","11,515","15,868","9,775","38,513",199,-,-
+Active duty military* ,    Serving on active duty,"15,454","15,001",-,453,-,-,-,-
+Active duty military* ,    Serving in Reserve or National Guard,"2,165",525,"1,640",-,-,-,-,-
+Active duty military* ,    Spouse serving on active duty,"42,482","7,750",-,"6,868","27,864",-,-,-
+Active duty military* ,    Spouse serving in Reserve or National Guard,"18,086","12,863",-,"4,126","4,126",-,"1,097",-
+Active duty military* ,    No active duty service (self or spouse),"6,343,769","1,369,673","968,843","3,344,517","1,255,201","211,357","320,209","177,169"
+Active duty military* ,    Did not report,"6,537",-,"3,167","3,370",-,-,-,-
+Difficulty seeing ,    No difficulty,"4,449,891","1,017,383","534,344","2,415,493","877,483","145,619","214,342","141,747"
+Difficulty seeing ,    Some difficulty,"1,781,337","337,848","371,636","865,635","404,020","65,738","105,397","34,282"
+Difficulty seeing ,    A lot of difficulty,"145,217","43,773","49,021","51,444","5,688",-,"1,567",-
+Difficulty seeing ,    Cannot do at all,"25,083",-,"14,171","9,773",-,-,-,"1,140"
+Difficulty seeing ,    Did not report,"24,480","4,323","4,477","16,990",-,-,-,-
+Difficulty hearing ,    No difficulty,"5,577,428","1,207,321","785,572","2,951,662","1,082,724","210,718","303,149","171,207"
+Difficulty hearing ,    Some difficulty,"741,018","181,176","181,889","330,587","167,709",639,639,"4,822"
+Difficulty hearing ,    A lot of difficulty,"45,929","10,507","3,022","26,337","11,737",-,"2,303",-
+Difficulty hearing ,    Cannot do at all,"51,888",-,-,"50,748","25,022",-,"15,215","1,140"
+Difficulty hearing ,    Did not report,"9,744","4,323","3,167",-,-,-,-,-
+Difficulty remembering or concentrating ,    No difficulty,"3,708,476","965,836","462,562","1,750,460","604,314","46,776","172,154","162,947"
+Difficulty remembering or concentrating ,    Some difficulty,"2,225,436","345,602","410,364","1,326,471","511,708","149,681","144,234","9,923"
+Difficulty remembering or concentrating ,    A lot of difficulty,"471,449","91,888","97,557","268,319","171,169","14,900","4,917","3,159"
+Difficulty remembering or concentrating ,    Cannot do at all,"3,625",-,-,"2,485",-,-,-,"1,140"
+Difficulty remembering or concentrating ,    Did not report,"17,021",-,"3,167","11,599",-,-,-,-
+Difficulty remembering or concentrating ,    No difficulty,"5,177,841","1,157,832","753,029","2,702,415","1,026,720","208,194","232,862","155,958"
+Difficulty walking or climbing stairs ,    Some difficulty,"988,812","195,450","161,155","535,049","201,186","3,164","86,877","18,336"
+Difficulty walking or climbing stairs ,    A lot of difficulty,"247,564","50,044","52,458","118,227","59,285",-,"1,567","1,735"
+Difficulty walking or climbing stairs ,    Cannot do at all,"8,623",-,"3,840","3,643",-,-,-,"1,140"
+Difficulty walking or climbing stairs ,    Did not report,"3,167",-,"3,167",-,-,-,-,-
